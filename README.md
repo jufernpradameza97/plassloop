@@ -1,2 +1,2 @@
 # plassambler
-plassamber is a plasmid essambler for metagenomics samples
+plassamber is a tool for plasmid essambler for metagenomics samples
